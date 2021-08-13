@@ -3,7 +3,7 @@
 # Sobre o projeto
 Chess-System é uma aplicação de console construída com o ProfºDrº.Nélio Alves(DevSuperior)
 
-A aplicação que consiste em um simples e divertido jogo de xadrez.
+A aplicação consiste em um simples e divertido jogo de xadrez.
 ## Layout
 ![Console](https://github.com/SamLucena/assets/blob/main/res/img/chessmatch.png) 
 ## Modelo Conceitual
