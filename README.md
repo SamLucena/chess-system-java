@@ -2,6 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/java?style=plastic)](https://github.com/SamLucena/chess-system-java/blob/main/LICENSE) 
 # Sobre o projeto
 Chess-System é uma aplicação de console construída com o ProfºDrº.Nélio Alves(DevSuperior)
+
 A aplicação que consiste em um simples e divertido jogo de xadrez.
 ## Layout
 ![Console](https://github.com/SamLucena/assets/blob/main/res/img/chessmatch.png) 
